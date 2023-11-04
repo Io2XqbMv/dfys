@@ -1,0 +1,14 @@
+[bypass_all]
+
+[proxy_list]
+(?:^|\.)twitter\.com
+(?:^|\.)twimg\.com
+(?:^|\.)t\.co
+(?:^|\.)instagram\.com
+(?:^|\.)cdninstagram\.com
+(?:^|\.)facebook\.com
+(?:^|\.)fbcdn\.net
+(?:^|\.)fb\.com
+(?:^|\.)cloudfront\.net
+104.19.214.58
+104.19.214.59
