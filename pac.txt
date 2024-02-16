@@ -26,6 +26,7 @@
   "||bing.com",
   "||adguard-vpn.com",
   "||trucksbook.eu"
+  "||joyreactor.cc"
 ];
 var __RULES__ = [
 ];
