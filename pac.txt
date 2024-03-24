@@ -1,7 +1,6 @@
 ﻿var __USERRULES__ = [
   "||rutracker.org",
   "||rutracker.cc",
-  "||rutrk.org",
   "||rutor.info",
   "||nnmclub.to",
   "||pornolab.net",
