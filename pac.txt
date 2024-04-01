@@ -28,7 +28,9 @@
   "||adguard-vpn.com",
   "||trucksbook.eu",
   "||joyreactor.cc",
-  "||yt3.ggpht.com"
+  "||yt3.ggpht.com",
+  "||openai.com",
+  "||oaistatic.com"
 ];
 var __RULES__ = [
 ];
