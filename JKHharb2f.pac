@@ -10,6 +10,7 @@ dnsDomainIs(host, "twimg.com") ||
 dnsDomainIs(host, "twitter.com") ||
 
 dnsDomainIs(host, "instagram.com") ||
+dnsDomainIs(host, "cdninstagram.com") ||
 
 dnsDomainIs(host, "youtube.com") ||
 dnsDomainIs(host, "ytimg.com") ||
