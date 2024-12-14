@@ -10,7 +10,7 @@ if (
     shExpMatch(url,"*nnmclub.to") ||
     shExpMatch(url,"*nnmstatic.win") ||
 )
-return "PROXY 127.0.0.1:2080";
+{return "PROXY 127.0.0.1:2080";}
 
 //if (shExpMatch(host, "*")) {return "PROXY 127.0.0.1:2080";}
 //if (shExpMatch(host, "*")) {return "PROXY 127.0.0.1:2080";}
