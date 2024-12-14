@@ -4,6 +4,7 @@ dnsDomainIs(host, "nnmclub.to") ||
 dnsDomainIs(host, "nnmstatic.win") ||
 
 dnsDomainIs(host, "xxxclub.to") ||
+dnsDomainIs(host, "pornolab.net") ||
 
 dnsDomainIs(host, "x.com") ||
 dnsDomainIs(host, "twimg.com") ||
