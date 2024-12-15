@@ -1,5 +1,8 @@
 function FindProxyForURL(url, host) {
 if (
+
+dnsDomainIs(host, "cloudflare.com") ||
+
 dnsDomainIs(host, "nnmclub.to") ||
 dnsDomainIs(host, "nnmstatic.win") ||
 
