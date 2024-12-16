@@ -5,6 +5,8 @@ dnsDomainIs(host, "cloudflare.com") ||
 
 dnsDomainIs(host, "nnmclub.to") ||
 dnsDomainIs(host, "nnmstatic.win") ||
+dnsDomainIs(host, "rutor.info") ||
+dnsDomainIs(host, "rutracker.org") ||
 
 dnsDomainIs(host, "xxxclub.to") ||
 dnsDomainIs(host, "imgxclub.com") ||
