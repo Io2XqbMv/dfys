@@ -1,29 +1,31 @@
 function FindProxyForURL(url, host) {
 if (
 
-dnsDomainIs(host, "cloudflare.com") ||
+shExpMatch(url, "*cloudflare.com*") ||
 
-dnsDomainIs(host, "nnmclub.to") ||
-dnsDomainIs(host, "nnmstatic.win") ||
-dnsDomainIs(host, "rutor.info") ||
-dnsDomainIs(host, "rutracker.org") ||
+shExpMatch(url, "*nnmclub.to*") ||
+shExpMatch(url, "*nnmstatic.win*") ||
+shExpMatch(url, "*rutor.info*") ||
+shExpMatch(url, "*rutracker.org*") ||
 
-dnsDomainIs(host, "xxxclub.to") ||
-dnsDomainIs(host, "imgxclub.com") ||
-dnsDomainIs(host, "pornolab.net") ||
+shExpMatch(url, "*xxxclub.to*") ||
+shExpMatch(url, "*imgxclub.com*") ||
+shExpMatch(url, "*pornolab.net*") ||
 
-dnsDomainIs(host, "x.com") ||
-dnsDomainIs(host, "twimg.com") ||
-dnsDomainIs(host, "twitter.com") ||
-dnsDomainIs(host, "t.co") ||
+shExpMatch(url, "*.x.com*") ||
+shExpMatch(url, "*/x.com*") ||
+shExpMatch(url, "*twimg.com*") ||
+shExpMatch(url, "*twitter.com*") ||
+shExpMatch(url, "*.t.co*") ||
+shExpMatch(url, "*/t.co*") ||
 
-dnsDomainIs(host, "instagram.com") ||
-dnsDomainIs(host, "cdninstagram.com") ||
+shExpMatch(url, "*instagram.com*") ||
+shExpMatch(url, "*cdninstagram.com*") ||
 
-dnsDomainIs(host, "youtube.com") ||
-dnsDomainIs(host, "ytimg.com") ||
-dnsDomainIs(host, "googlevideo.com") ||
-dnsDomainIs(host, "ggpht.com")
+shExpMatch(url, "*youtube.com*") ||
+shExpMatch(url, "*ytimg.com*") ||
+shExpMatch(url, "*googlevideo.com*") ||
+shExpMatch(url, "*ggpht.com*")
 )
 {return "PROXY 127.0.0.1:2080";}
 
