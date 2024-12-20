@@ -12,6 +12,7 @@ shExpMatch(url, "*rutracker.cc*") ||
 shExpMatch(url, "*xxxclub.to*") ||
 shExpMatch(url, "*imgxclub.com*") ||
 shExpMatch(url, "*pornolab.net*") ||
+shExpMatch(url, "*imgtraffic.com*") ||
 
 shExpMatch(url, "*.x.com*") ||
 shExpMatch(url, "*/x.com*") ||
