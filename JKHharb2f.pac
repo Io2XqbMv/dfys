@@ -8,7 +8,7 @@ shExpMatch(url, "*nnmstatic.win*") ||
 shExpMatch(url, "*rutor.info*") ||
 shExpMatch(url, "*rutracker.org*") ||
 shExpMatch(url, "*rutracker.cc*") ||
-shExpMatch(url, "*btdigg.com*") ||
+shExpMatch(url, "*btdig.com*") ||
 
 shExpMatch(url, "*xxxclub.to*") ||
 shExpMatch(url, "*imgxclub.com*") ||
