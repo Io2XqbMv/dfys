@@ -35,6 +35,8 @@ shExpMatch(url, "*googlevideo.com*") ||
 shExpMatch(url, "*nhacmp3youtube.com*") ||
 shExpMatch(url, "*ytimg.l.google.com*") ||
 shExpMatch(url, "*googlevideo.com*") ||
+shExpMatch(url, "*googleusercontent.com*") ||
+shExpMatch(url, "*gstatic.com*") ||
 shExpMatch(url, "*ggpht.com*")
 )
 {return "PROXY 127.0.0.1:2080";}
