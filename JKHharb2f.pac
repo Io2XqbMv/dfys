@@ -3,6 +3,8 @@ if (
 
 shExpMatch(url, "*cloudflare.com*") ||
 
+shExpMatch(url, "*ntc.party*") ||
+
 shExpMatch(url, "*nnmclub.to*") ||
 shExpMatch(url, "*nnmstatic.win*") ||
 shExpMatch(url, "*rutor.info*") ||
