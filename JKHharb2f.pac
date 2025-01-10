@@ -32,6 +32,7 @@ shExpMatch(url, "*anilibria.top*") ||
 shExpMatch(url, "*youtube.com*") ||
 shExpMatch(url, "*ytimg.com*") ||
 shExpMatch(url, "*youtubei.googleapis.com*") ||
+shExpMatch(url, "*jnn-pa.googleapis.com*") ||
 shExpMatch(url, "*youtu.be*") ||
 shExpMatch(url, "*googlevideo.com*") ||
 shExpMatch(url, "*nhacmp3youtube.com*") ||
