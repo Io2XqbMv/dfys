@@ -27,6 +27,8 @@ shExpMatch(url, "*/t.co*") ||
 shExpMatch(url, "*instagram.com*") ||
 shExpMatch(url, "*cdninstagram.com*") ||
 
+shExpMatch(url, "*anilibria.top*") ||
+
 shExpMatch(url, "*youtube.com*") ||
 shExpMatch(url, "*ytimg.com*") ||
 shExpMatch(url, "*youtubei.googleapis.com*") ||
