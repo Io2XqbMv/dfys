@@ -3,6 +3,8 @@ if (
 
 shExpMatch(url, "*cloudflare.com*") ||
 
+shExpMatch(url, "*play.google.com*") ||
+
 shExpMatch(url, "*ntc.party*") ||
 
 shExpMatch(url, "*nnmclub.to*") ||
