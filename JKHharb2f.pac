@@ -18,6 +18,7 @@ shExpMatch(url, "*xxxclub.to*") ||
 shExpMatch(url, "*imgxclub.com*") ||
 shExpMatch(url, "*pornolab.net*") ||
 shExpMatch(url, "*imgtraffic.com*") ||
+shExpMatch(url, "*redgifs.com*") ||
 shExpMatch(url, "*torrentsbay.org*") ||
 
 shExpMatch(url, "*.x.com*") ||
