@@ -32,6 +32,7 @@ shExpMatch(url, "*instagram.com*") ||
 shExpMatch(url, "*cdninstagram.com*") ||
 
 shExpMatch(url, "*anilibria.top*") ||
+shExpMatch(url, "*dreamerscast.com*") ||
 
 shExpMatch(url, "*youtube.com*") ||
 shExpMatch(url, "*ytimg.com*") ||
