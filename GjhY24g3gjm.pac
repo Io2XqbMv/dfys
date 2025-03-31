@@ -20,6 +20,8 @@ shExpMatch(url, "*/t.co*") ||
 shExpMatch(url, "*instagram.com*") ||
 shExpMatch(url, "*cdninstagram.com*") ||
 
+shExpMatch(url, "*anilibria.top*") ||
+
 shExpMatch(url, "*discord.*")
 
 )
